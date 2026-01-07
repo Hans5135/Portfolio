@@ -1,5 +1,8 @@
+body {
+  background: red !important;
+}
 
-main {
+.page-content {
   text-align: center;
 }
 
@@ -11,10 +14,9 @@ main {
 
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   margin-top: 2rem;
 }
-
 
 h2 {
   margin-top: 1.5rem;
