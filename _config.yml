@@ -55,3 +55,4 @@ plugins:
 #   - vendor/ruby/
 css:
   - /assets/css/style.css
+baseurl: "/Portfolio"
