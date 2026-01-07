@@ -1,17 +1,27 @@
-/* Reset simple */
+
+/* Reset */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   background: #f4f4f4;
 }
 
-/* Contenu centré */
+/* Conteneur principal */
 main {
   max-width: 900px;
   margin: 0 auto;
   padding: 3rem;
+  background: rgb(211, 16, 16);
+  text-align: center; /* ← C'EST ICI */
+}
+
+/* Forcer le centrage du texte Markdown */
+main h1,
+main h2,
+main h3,
+main p,
+main ul {
   text-align: center;
-  background: white;
 }
 
 /* Titres */
