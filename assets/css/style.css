@@ -1,7 +1,9 @@
 
-
+main{
+    color: rgb(26, 26, 105);
+}
 
 body {
   background: rgb(229, 203, 135);
-  color: rgb(26, 26, 105);
+ 
 }
