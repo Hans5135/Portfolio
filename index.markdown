@@ -7,12 +7,9 @@ title: Hans
 Bienvenue sur mon portfolio.
 
 * Prenom
-
- * Hans
-
+  * Hans
 * Nom 
-
- * Zaborowski
+  * Zaborowski
 
 
 ## Développeur web 
