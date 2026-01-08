@@ -12,7 +12,7 @@ Bienvenue sur mon portfolio.
   * Zaborowski
 
 
-## Développeur web 
+
 
 
 
