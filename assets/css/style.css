@@ -14,7 +14,8 @@ img{
 
     border-radius: 800px;
     width: 200px;
-   
+   position: relative;
+   top: 30px;
 }
 .box-profil {
   width: fit-content;
@@ -26,8 +27,4 @@ img{
 }
 
 
-.box-profil:hover {
-  transform: translateY(-3px);
-  transition: transform 0.3s ease;
-}
 
