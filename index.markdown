@@ -11,15 +11,25 @@ title: PortFolio
 <div class="box-profil">
 
 
-* Prenom
-  * Hans
-* Nom 
-  * Zaborowski
-* age
-  * 19
+<ul>
+  <li>Prenom
+    <ul>
+      <li>Hans</li>
+    </ul>
+  </li>
+  <li>Nom
+    <ul>
+      <li>Zaborowski</li>
+    </ul>
+  </li>
+  <li>Âge
+    <ul>
+      <li>19</li>
+    </ul>
+  </li>
+</ul>
 
-
-![image](frozen14.jpg)
+<img src="frozen14.jpg" alt="image">
 
 
 </div>
