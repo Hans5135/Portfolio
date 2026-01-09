@@ -16,6 +16,6 @@ title: contacte
 
 
 <a href="projet.html" class="btnn">Projet</a>
-<a herf="https://hans5135.github.io/Portfolio/" class="btnn">profil</a>
+<a href="https://hans5135.github.io/Portfolio/" class="btnn">profil</a>
 <a href="propos.html" class="btnn">A propos</a>
 </div>
