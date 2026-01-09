@@ -7,5 +7,5 @@ title: contacte
 # **Contacte.**
 
 <div class="boxx-profil">
-<p>comment me contacter</p>
+<p class="cont">comment me contacter</p>
 </div>
