@@ -7,6 +7,7 @@ title: projet
 # **Projet.**
 
 <div class="boxxxx-profil">
+<p class="conto">comment me contacter</p>
 
 
 <a href="contacte.html" class="btnnnn">contact</a>

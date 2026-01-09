@@ -7,6 +7,7 @@ title: propos
 # **A propos.**
 
 <div class="boxx-profil">
+<p class="conti">comment me contacter</p>
 
 
 <a href="projet.html" class="btnn">Projet</a>
