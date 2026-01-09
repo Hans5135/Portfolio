@@ -6,7 +6,7 @@ title: contacte
 
 # **Contacte.**
 
-<div class="boxx-profil">
+<div class="boxxx-profil">
 <p class="cont">comment me contacter</p>
 
 
@@ -15,7 +15,7 @@ title: contacte
 
 
 
-<a href="projet.html" class="btnn">Projet</a>
-<a href="https://hans5135.github.io/Portfolio/" class="btnn">profil</a>
-<a href="propos.html" class="btnn">A propos</a>
+<a href="projet.html" class="btnnn">Projet</a>
+<a href="https://hans5135.github.io/Portfolio/" class="btnnn">profil</a>
+<a href="propos.html" class="btnnn">A propos</a>
 </div>
