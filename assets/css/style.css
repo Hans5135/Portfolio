@@ -41,3 +41,20 @@ padding-top: 90px;
 .box-profil ul{
      font-size: 20px;
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 5px;
+  border-radius: 8px;
+  background: rgb(80, 140, 220);
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: rgb(60, 120, 200);
+  transform: translateY(-2px);
+}
