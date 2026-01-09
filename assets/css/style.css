@@ -8,7 +8,7 @@ body {
  
 }
 #profil{
-    color: rgb(219, 219, 230);;
+    color: rgb(171, 216, 255);
 }
 #bienvenue-sur-mon-portfolio{
 text-align: center;
@@ -19,7 +19,7 @@ img{
     border-radius: 800px;
     width: 200px;
    position: relative;
-   top: 30px;
+   top:-130px;
 }
 .box-profil {
   height: 500px;
@@ -31,6 +31,13 @@ img{
    rgb(185 88 116 / 51%));
 }
 
-.box-profil ul {
+.box-profil > ul {
+padding-top: 80px;
+    margin-left: 200px;
+    width: 120px;
  color: rgb(195, 218, 249);
+
+}
+.box-profil ul{
+     font-size: 80px;
 }
