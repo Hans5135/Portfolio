@@ -44,7 +44,9 @@ padding-top: 90px;
 
 .btn {
   display: inline-block;
-  padding: 10px 20px;
+  width: 150px;      
+  height: 45px;      
+  padding: 10px 0;   
   margin: 10px 5px;
   border-radius: 8px;
   background: linear-gradient(135deg,
@@ -53,11 +55,14 @@ padding-top: 90px;
   color: white;
   text-decoration: none;
   font-weight: bold;
+  text-align: center; 
+  line-height: 45px;   
   transition: all 0.3s ease;
+  position: relative;
   top: 70px;
-    left: 150px;
-    position: relative;
+  left: 280px;
 }
+
 
 .btn:hover {
   background: linear-gradient(135deg,
