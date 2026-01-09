@@ -30,8 +30,9 @@ title: PortFolio
 
 <img src="frozen14.jpg" alt="image">
 
-<a href="https://github.com/tonprofil" class="btn">Voir GitHub</a>
-<a href="mailto:toi@email.com" class="btn">Me contacter</a>
+<a href="https://github.com/tonprofil" class="btn">Projet</a>
+<a href="mailto:toi@email.com" class="btn">contact</a>
+<a href="mailto:toi@email.com" class="btn">A propos</a>
 
 </div>
 

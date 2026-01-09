@@ -54,6 +54,9 @@ padding-top: 90px;
   text-decoration: none;
   font-weight: bold;
   transition: all 0.3s ease;
+  top: 70px;
+    left: 150px;
+    position: relative;
 }
 
 .btn:hover {
