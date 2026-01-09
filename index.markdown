@@ -10,7 +10,6 @@ title: PortFolio
 
 <div class="box-profil">
 
-
 <ul>
   <li>Prenom
     <ul>

@@ -7,7 +7,7 @@ body {
   background: rgb(23, 50, 95);
  
 }
-#Profil{
+#profil{
     color: rgb(219, 219, 230);;
 }
 #bienvenue-sur-mon-portfolio{
@@ -31,4 +31,6 @@ img{
    rgb(185 88 116 / 51%));
 }
 
-
+.box-profil ul {
+ color: rgb(195, 218, 249);
+}
