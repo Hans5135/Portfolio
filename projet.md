@@ -6,11 +6,12 @@ title: projet
 
 # **Projet.**
 
-<div class="boxxxx-profil">
-<p class="conto">comment me contacter</p>
 
 
-<a href="contacte.html" class="btnnnn">contact</a>
-<a href="https://hans5135.github.io/Portfolio/" class="btnnnn">profil</a>
-<a href="propos.html" class="btnnnn">A propos</a>
-</div>
+## Portfolio Jekyll
+**Contexte :** Créer un portfolio pour présenter mon profil et mes projets.  
+**Technologies :** HTML, CSS, Jekyll, Markdown, GitHub Pages  
+**Ce que j’ai appris :** Création de site statique, SEO basique, workflow GitHub Actions  
+**Lien GitHub Pages :** [Voir le site](git@github.com:Hans5135/Portfolio)
+
+

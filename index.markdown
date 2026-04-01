@@ -1,43 +1,27 @@
 ---
 layout: default
-title: PortFolio
+title: Portfolio
 ---
+
 # **Bienvenue sur mon portfolio.**
 
 # **Profil**
 
+**Nom :** Zaborowski  
+**Prénom :** Hans
 
+Je m’intéresse particulièrement à :  
+- le développement web  
+- les projets techniques concrets
 
-<div class="box-profil">
+---
 
+## Mes compétences principales
 
+- **Langages :** JavaScript, Java  
+- **Web :** HTML, CSS, 
+- **Outils :** Git, Linux
 
-<ul>
-  <li>Prenom
-    <ul>
-      <li>Hans</li>
-    </ul>
-  </li>
-  <li>Nom
-    <ul>
-      <li>Zaborowski</li>
-    </ul>
-  </li>
-  <li>Âge
-    <ul>
-      <li>19</li>
-    </ul>
-  </li>
-</ul>
-
-<img src="frozen14.jpg" alt="image">
-
-<a href="projet.html" class="btn">Projet</a>
-<a href="contacte.html" class="btn">contact</a>
-<a href="propos.html" class="btn">A propos</a>
-
-</div>
-
- 
+---
 
 

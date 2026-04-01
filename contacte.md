@@ -1,21 +1,26 @@
 ---
 layout: default
-title: contacte
+title: Contacte
 ---
+
 # **Bienvenue sur mon portfolio.**
 
-# **Contacte.**
+# Contact
 
-<div class="boxxx-profil">
-<p class="cont">comment me contacter</p>
+Email : hans.zaborowski@epitech.eu  
 
+GitHub : git@github.com:Hans5135/Portfolio
 
+---
 
+## Me contacter
 
+<form>
+  <input type="text" placeholder="Nom">
+  <input type="email" placeholder="Email">
+  <textarea placeholder="Message"></textarea>
+  <button type="submit">Envoyer</button>
+</form>
 
+---
 
-
-<a href="projet.html" class="btnnn">Projet</a>
-<a href="https://hans5135.github.io/Portfolio/" class="btnnn">profil</a>
-<a href="propos.html" class="btnnn">A propos</a>
-</div>

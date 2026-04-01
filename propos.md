@@ -1,16 +1,27 @@
 ---
 layout: default
-title: propos
+title: À propos
 ---
+
 # **Bienvenue sur mon portfolio.**
 
-# **A propos.**
+# À propos de moi
 
-<div class="boxx-profil">
-<p class="conti">comment me contacter</p>
+## Compétences techniques
+- Programmation : JavaScript, Java
+- Web : HTML, CSS
+- Outils : Git, Linux, Docker 
 
+## Langues
+- Français : natif
+- Anglais : intermédiaire 
 
-<a href="projet.html" class="btnn">Projet</a>
-<a href="https://hans5135.github.io/Portfolio/" class="btnn">profil</a>
-<a href="contacte.html" class="btnn">contact</a>
-</div>
+## Qualités
+- Autonome
+- Curieux
+
+## Objectif professionnel
+Travailler sur des projets innovants.
+
+---
+
